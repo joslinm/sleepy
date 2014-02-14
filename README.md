@@ -46,3 +46,7 @@ Documentation lives [here](http://godoc.org/github.com/dougblack/sleepy).
 ## License
 
 `sleepy` is released under the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joslinm/sleepy/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
